@@ -1,4 +1,4 @@
-# AtMega_3D_Printer_Helper
+# AtMega 3D Printer Helper
 An Arduino based 3D print tool for monitoring and error detection <br/>
 
 ##Feature Set:
